@@ -40,5 +40,61 @@
     "category": "Typography",
     "image": "https://images.unsplash.com/photo-15310ba038d15-1b076eb5cd08?q=80&w=2000&auto=format&fit=crop",
     "link": "#"
+  },
+  {
+    "id": 7,
+    "title": "Fliers",
+    "category": "Print",
+    "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?q=80&w=800&auto=format&fit=crop",
+    "link": "assets/projects/Fliers.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Game Con",
+    "category": "Branding",
+    "image": "assets/projects/Game Con/mockup.png",
+    "link": "assets/projects/Game Con/index.html"
+  },
+  {
+    "id": 9,
+    "title": "LBC",
+    "category": "Print",
+    "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?q=80&w=800&auto=format&fit=crop",
+    "link": "assets/projects/LBC.pdf"
+  },
+  {
+    "id": 10,
+    "title": "Screen Shot 2021",
+    "category": "Web Design",
+    "image": "assets/projects/Screen Shot 2021-06-14 at 12.01.11 PM.png",
+    "link": "assets/projects/Screen Shot 2021-06-14 at 12.01.11 PM.png"
+  },
+  {
+    "id": 11,
+    "title": "Screen Shot 2025",
+    "category": "Web Design",
+    "image": "assets/projects/Screen Shot 2025-06-25 at 8.32.07 PM.png",
+    "link": "assets/projects/Screen Shot 2025-06-25 at 8.32.07 PM.png"
+  },
+  {
+    "id": 12,
+    "title": "Tea Campaign",
+    "category": "Branding",
+    "image": "assets/projects/Tea/tealogo.png",
+    "link": "assets/projects/Tea/index.html"
+  },
+  {
+    "id": 13,
+    "title": "Pizza Logo",
+    "category": "Branding",
+    "image": "assets/projects/pizza logo.jpg",
+    "link": "assets/projects/pizza logo.jpg"
+  },
+  {
+    "id": 14,
+    "title": "VBS Logo",
+    "category": "Branding",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=800&auto=format&fit=crop",
+    "link": "assets/projects/vbs logo.pdf"
   }
 ]
