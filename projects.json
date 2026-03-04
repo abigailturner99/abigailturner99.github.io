@@ -43,55 +43,48 @@
   },
   {
     "id": 7,
-    "title": "Fliers",
+    "title": "Church Fliers",
     "category": "Print",
     "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?q=80&w=800&auto=format&fit=crop",
-    "link": "assets/projects/Fliers.pdf"
+    "link": "assets/projects/Church Fliers.pdf"
   },
   {
     "id": 8,
-    "title": "Game Con",
-    "category": "Branding",
-    "image": "assets/projects/Game Con/mockup.png",
-    "link": "assets/projects/Game Con/index.html"
+    "title": "Coastal Machinery",
+    "category": "Web Design",
+    "image": "assets/projects/Coastal Machinery.png",
+    "link": "assets/projects/Coastal Machinery.png"
   },
   {
     "id": 9,
-    "title": "LBC",
-    "category": "Print",
-    "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?q=80&w=800&auto=format&fit=crop",
-    "link": "assets/projects/LBC.pdf"
+    "title": "Game Convention",
+    "category": "Branding",
+    "image": "assets/projects/Game Convention/mockup.png",
+    "link": "assets/projects/Game Convention/index.html"
   },
   {
     "id": 10,
-    "title": "Screen Shot 2021",
-    "category": "Web Design",
-    "image": "assets/projects/Screen Shot 2021-06-14 at 12.01.11 PM.png",
-    "link": "assets/projects/Screen Shot 2021-06-14 at 12.01.11 PM.png"
+    "title": "Lighthouse Baptist Church",
+    "category": "Print",
+    "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?q=80&w=800&auto=format&fit=crop",
+    "link": "assets/projects/Lighthouse Baptist Church.pdf"
   },
   {
     "id": 11,
-    "title": "Screen Shot 2025",
-    "category": "Web Design",
-    "image": "assets/projects/Screen Shot 2025-06-25 at 8.32.07 PM.png",
-    "link": "assets/projects/Screen Shot 2025-06-25 at 8.32.07 PM.png"
+    "title": "Lotus Tea",
+    "category": "Branding",
+    "image": "assets/projects/Lotus Tea/tealogo.png",
+    "link": "assets/projects/Lotus Tea/index.html"
   },
   {
     "id": 12,
-    "title": "Tea Campaign",
+    "title": "Pizza Logo",
     "category": "Branding",
-    "image": "assets/projects/Tea/tealogo.png",
-    "link": "assets/projects/Tea/index.html"
+    "image": "assets/projects/Pizza Logo.jpg",
+    "link": "assets/projects/Pizza Logo.jpg"
   },
   {
     "id": 13,
-    "title": "Pizza Logo",
-    "category": "Branding",
-    "image": "assets/projects/pizza logo.jpg",
-    "link": "assets/projects/pizza logo.jpg"
-  },
-  {
-    "id": 14,
     "title": "VBS Logo",
     "category": "Branding",
     "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=800&auto=format&fit=crop",
