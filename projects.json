@@ -1,90 +1,48 @@
 [
   {
     "id": 1,
-    "title": "Aura Cosmetics",
-    "category": "Branding",
-    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=2000&auto=format&fit=crop",
-    "link": "#"
-  },
-  {
-    "id": 2,
-    "title": "Lumina App",
-    "category": "Web Design",
-    "image": "https://images.unsplash.com/photo-1507238692062-5a04299947c5?q=80&w=2000&auto=format&fit=crop",
-    "link": "#"
-  },
-  {
-    "id": 3,
-    "title": "Helsinki Music Festival",
-    "category": "Typography",
-    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2000&auto=format&fit=crop",
-    "link": "#"
-  },
-  {
-    "id": 4,
-    "title": "Vanguard Architecture",
-    "category": "Web Design",
-    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=2000&auto=format&fit=crop",
-    "link": "#"
-  },
-  {
-    "id": 5,
-    "title": "Minimalist Roasters",
-    "category": "Branding",
-    "image": "https://images.unsplash.com/photo-1559525839-b184a4d698c7?q=80&w=2000&auto=format&fit=crop",
-    "link": "#"
-  },
-  {
-    "id": 6,
-    "title": "The Type Specimen",
-    "category": "Typography",
-    "image": "https://images.unsplash.com/photo-15310ba038d15-1b076eb5cd08?q=80&w=2000&auto=format&fit=crop",
-    "link": "#"
-  },
-  {
-    "id": 7,
     "title": "Church Fliers",
     "category": "Print",
     "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?q=80&w=800&auto=format&fit=crop",
     "link": "assets/projects/Church Fliers.pdf"
   },
   {
-    "id": 8,
+    "id": 2,
     "title": "Coastal Machinery",
     "category": "Web Design",
     "image": "assets/projects/Coastal Machinery.png",
     "link": "assets/projects/Coastal Machinery.png"
   },
   {
-    "id": 9,
+    "id": 3,
     "title": "Game Convention",
     "category": "Branding",
     "image": "assets/projects/Game Convention/mockup.png",
     "link": "assets/projects/Game Convention/index.html"
   },
   {
-    "id": 10,
+    "id": 4,
     "title": "Lighthouse Baptist Church",
     "category": "Print",
     "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?q=80&w=800&auto=format&fit=crop",
     "link": "assets/projects/Lighthouse Baptist Church.pdf"
   },
   {
-    "id": 11,
+    "id": 5,
     "title": "Lotus Tea",
     "category": "Branding",
     "image": "assets/projects/Lotus Tea/tealogo.png",
     "link": "assets/projects/Lotus Tea/index.html"
   },
   {
-    "id": 12,
+    "id": 6,
     "title": "Pizza Logo",
     "category": "Branding",
     "image": "assets/projects/Pizza Logo.jpg",
     "link": "assets/projects/Pizza Logo.jpg"
   },
   {
-    "id": 13,
+    "id": 7,
     "title": "VBS Logo",
     "category": "Branding",
     "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=800&auto=format&fit=crop",
